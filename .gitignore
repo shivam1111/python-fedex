@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.tmp
+*~
+.project
+.pydevproject
+MANIFEST
+dist
+build
+.idea
+.DS_Store
